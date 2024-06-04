@@ -1,4 +1,3 @@
-
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 
@@ -46,4 +45,3 @@ CourseListRow.propTypes = {
 };
 
 export default CourseListRow;
-
