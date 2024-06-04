@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { shallow } from 'enzyme';
 import BodySectionWithMarginBottom from './BodySectionWithMarginBottom';
@@ -42,4 +41,3 @@ describe('<BodySectionWithMarginBottom />', () => {
     expect(p.text()).toEqual('test children node');
   });
 });
-

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { shallow } from 'enzyme';
 import CourseList from './CourseList';
@@ -96,4 +95,3 @@ describe('listCourses without values', () => {
     expect(row.at(2).prop('isHeader')).toEqual(false);
   });
 });
-

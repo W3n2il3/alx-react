@@ -1,4 +1,3 @@
-
 import React from 'react';
 import logo from '../assets/holberton-logo.jpg';
 import { StyleSheet, css } from 'aphrodite';
@@ -30,4 +29,3 @@ const styles = StyleSheet.create({
 });
 
 export default Header;
-

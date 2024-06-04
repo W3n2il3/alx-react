@@ -1,4 +1,3 @@
-
 import React, { Component, Fragment } from 'react';
 import close_icon from '../assets/close-icon.png';
 import NotificationItem from './NotificationItem';
@@ -97,4 +96,3 @@ const styles = StyleSheet.create({
 });
 
 export default Notifications;
-

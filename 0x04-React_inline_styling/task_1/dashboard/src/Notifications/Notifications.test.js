@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { shallow } from 'enzyme';
 import Notifications from './Notifications';
@@ -177,4 +176,3 @@ describe('updating the props of the component', () => {
     jest.restoreAllMocks();
   });
 });
-

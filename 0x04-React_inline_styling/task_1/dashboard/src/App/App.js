@@ -1,4 +1,3 @@
-
 import React, { Component, Fragment } from 'react';
 import Header from '../Header/Header';
 import Login from '../Login/Login';
@@ -87,4 +86,3 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-
